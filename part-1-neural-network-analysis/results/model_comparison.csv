@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Learning Rate,Batch Size,Epochs,Activation,Test Accuracy
+Exp 1,64 -> 32,0.001,32,30,relu,0.9775
+Exp 2,128 -> 64,0.001,32,30,relu,0.98
+Exp 3,64 -> 32,0.01,64,50,tanh,0.975
